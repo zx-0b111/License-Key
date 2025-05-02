@@ -1,7 +1,7 @@
 
 # License Key
 
-Script desenvolvido em java para resolver o desafio do site cracksme.com, consiste no desenvolvimento de um algoritmo para criação de um hash SHA-256, conversão de hash para hexadecimal legitimo e a separação de um número x de caracteres com hífens.
+Script desenvolvido em java para resolver o desafio do site crackmes.one, consiste no desenvolvimento de um algoritmo para criação de um hash SHA-256, conversão de hash para hexadecimal legitimo e a separação de um número x de caracteres com hífens.
 
 
 ## Imagem 1
