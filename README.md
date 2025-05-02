@@ -27,7 +27,7 @@ Script desenvolvido em java para resolver o desafio do site cracksme.com, consis
 
 -Entendimento sobre o algoritmo.
 
--Desfrutando de métodos da string.
+-Desfrutando de métodos string.
 
 -Engenharia reversa na prática.
 
